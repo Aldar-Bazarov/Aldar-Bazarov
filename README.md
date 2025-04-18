@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aldar</h1>
 <h3 align="center">A full-stack developer from Russia</h3>
 
-- 🔭 I’m currently working on [DANON](https://hnrus.com/)
+- 🔭 I’m currently working on **[DANON](https://hnrus.com/)**
 
 - 📫 How to reach me **a.bazarov.sas@gmail.com**
 

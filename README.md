@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aldar</h1>
 <h3 align="center">A full-stack developer from Russia</h3>
 
-- 🔭 I’m currently working on [OIS](https://oissolutions.net/)
+- 🔭 I’m currently working on [DANON](https://hnrus.com/)
 
 - 📫 How to reach me **a.bazarov.sas@gmail.com**
 
@@ -17,20 +17,11 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
-<a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
-</a>
-<a href="https://graphql.org" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-</a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 </a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-</a>
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
 </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>

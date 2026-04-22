@@ -6,37 +6,11 @@
 
 <h3 align="left">Tech Stack:</h3>
 
-**Backend**
-- TypeScript / Node.js
-- Go
-- C# / .NET
+### Tech Stack
 
-**API Protocols**
-- REST
-- GraphQL
-- gRPC
-
-**Frontend**
-- React
-- Astro
-- Next.js
-
-**Databases & Messaging**
-- PostgreSQL
-- Redis
-- Apache Kafka
-
-**Testing**
-- Jest
-- xUnit
-
-**DevOps & Tools**
-- Docker
-- Nginx
-- Linux
-- Git
-- GitLab CI
-
----
-
-*Currently exploring Go and Kafka for high-load systems*
+**Backend:** TypeScript/Node.js · Go · C#/.NET  
+**API:** REST · GraphQL · gRPC  
+**Frontend:** React · Astro · Next.js  
+**Data:** PostgreSQL · Redis · Apache Kafka  
+**Testing:** Jest · xUnit  
+**DevOps:** Docker · Nginx · Linux · Git · GitLab CI

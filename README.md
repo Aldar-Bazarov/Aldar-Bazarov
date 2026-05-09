@@ -11,16 +11,12 @@
   <a href="https://t.me/bazarovaldar">Telegram</a>
 </p>
 
----
-
 ## About Me
 
 - Backend-oriented engineer with strong full-stack experience
 - Interested in distributed systems, event-driven architecture and scalable backend infrastructure
 - Building products with clean architecture and scalable infrastructure
 - Currently working at [DANONE](https://www.danone.com/)
-
----
 
 ## Core Expertise
 
@@ -57,8 +53,6 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
 
 ## Contacts
 
